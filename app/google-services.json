@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861520422640",
+    "firebase_url": "https://gasx-80102.firebaseio.com",
+    "project_id": "gasx-80102",
+    "storage_bucket": "gasx-80102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861520422640:android:0e15ce23adcd2ee3",
+        "android_client_info": {
+          "package_name": "com.example.calculaflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861520422640-pujng3dqk2qo2mev552iu47h5kjiul68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calculaflex",
+            "certificate_hash": "c487405f6cf47da2bb4d7ec336c1866aac7f5d09"
+          }
+        },
+        {
+          "client_id": "861520422640-k44f9kc1gu1phticnfdk57jei1nbuhap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFcLVpz3kPf0CpHh03pXR4j2RbiVYSWws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861520422640-k44f9kc1gu1phticnfdk57jei1nbuhap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
